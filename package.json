@@ -113,7 +113,7 @@
     "@octokit/rest": "^16.43.2",
     "async": "^3.2.0",
     "await-sleep": "0.0.1",
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.1068.0",
     "babel-eslint": "^10.1.0",
     "chalk": "^4.1.1",
     "commander": "^6.2.0",
